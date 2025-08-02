@@ -52,6 +52,11 @@ Each topic includes clean examples, key methods, and practical usage.
 ## 🎯 Learning Goals
 
 - Master Python's core built-in data structures
+
+
+✍️ Author
+Made with ❤️ by [shekhar]
+Exploring deeper layers of Python with every repo.
 - Learn how and when to use each type
 - Build confidence in manipulating and storing data efficiently
 
